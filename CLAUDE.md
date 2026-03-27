@@ -1,4 +1,4 @@
-# CLAUDE.md — Poor Plebs Website
+# CLAUDE.md — Poor-Plebs Website
 
 ## Project Overview
 

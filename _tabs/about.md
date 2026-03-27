@@ -23,5 +23,5 @@ We believe great technology should be accessible. That's why we invest in open s
 Have a question or want to work with us?
 
 - **GitHub**: [github.com/Poor-Plebs](https://github.com/Poor-Plebs)
-- **LinkedIn**: [Poor Plebs](https://www.linkedin.com/company/poor-plebs)
+- **LinkedIn**: [Poor-Plebs](https://www.linkedin.com/company/poor-plebs)
 - **Email**: [contact@poor-plebs.com](mailto:contact@poor-plebs.com)

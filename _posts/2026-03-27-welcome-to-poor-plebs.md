@@ -1,11 +1,11 @@
 ---
-title: "Welcome to Poor Plebs"
+title: "Welcome to Poor-Plebs"
 date: 2026-03-27 12:00:00 +0100
 categories: [Announcements]
 tags: [launch, company]
 ---
 
-We're excited to launch the official **Poor Plebs** blog!
+We're excited to launch the official **Poor-Plebs** blog!
 
 ## Who are we?
 
