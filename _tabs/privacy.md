@@ -84,7 +84,7 @@ We may update this Privacy Policy from time to time. The updated policy will be 
 
 You have the right to lodge a complaint with a data protection supervisory authority if you believe our processing of your personal data infringes the GDPR. The competent authority in Austria is:
 
-**Österreichische Datenschutzbehörde** (Austrian Data Protection Authority), Barichgasse 40-42, 1030 Wien, Austria. Email: dsb@dsb.gv.at. Website: [www.dsb.gv.at](https://www.dsb.gv.at).
+**Österreichische Datenschutzbehörde** (Austrian Data Protection Authority), Barichgasse 40-42, 1030 Wien, Austria. Email: [dsb@dsb.gv.at](mailto:dsb@dsb.gv.at). Website: [www.dsb.gv.at](https://www.dsb.gv.at).
 
 ### 13. Contact
 
