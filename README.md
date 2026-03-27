@@ -1,6 +1,6 @@
 # Poor-Plebs.github.io
 
-Company website for **Poor-Plebs e.U.** — [poor-plebs.com](https://poor-plebs.com)
+Company website for **Poor-Plebs** — [poor-plebs.com](https://poor-plebs.com)
 
 Built with [Jekyll](https://jekyllrb.com/) using the [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme, deployed via GitHub Pages.
 
@@ -20,4 +20,4 @@ bash tools/test.sh
 ## License
 
 Theme: [MIT](https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE) (Cotes Chung).
-Site content: [MIT](LICENSE) (Poor-Plebs e.U.).
+Site content: [MIT](LICENSE) (Poor-Plebs).

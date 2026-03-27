@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Company website for **Poor-Plebs e.U.** hosted at [poor-plebs.com](https://poor-plebs.com).
+Company website for **Poor-Plebs** hosted at [poor-plebs.com](https://poor-plebs.com).
 Built with Jekyll using the [Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy) (v7.5), deployed via GitHub Pages.
 
 ## Build & Run

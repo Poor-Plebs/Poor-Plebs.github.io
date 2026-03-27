@@ -9,7 +9,7 @@ We're excited to launch the official **Poor-Plebs** blog!
 
 ## Who are we?
 
-Poor-Plebs e.U. is an IT company focused on building software that matters. We provide IT solutions and services, contribute to open-source projects, and are developing new products like [bratan.ai](https://bratan.ai).
+Poor-Plebs is an IT company focused on building software that matters. We provide IT solutions and services, contribute to open-source projects, and are developing new products like [bratan.ai](https://bratan.ai).
 
 ## What to expect
 

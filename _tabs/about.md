@@ -6,7 +6,7 @@ order: 4
 
 ## Who We Are
 
-**Poor-Plebs e.U.** is an IT company providing cutting-edge solutions and services. We are passionate about building software that matters — from open-source contributions to commercial products.
+**Poor-Plebs** is an IT company providing cutting-edge solutions and services. We are passionate about building software that matters — from open-source contributions to commercial products.
 
 ## What We Do
 
