@@ -9,7 +9,7 @@ title: Privacy Policy
 
 How poor-plebs.com collects, uses, and protects your personal data under the GDPR.
 
-**Last updated:** 2026-03-27
+**Last updated:** 2026-03-28
 
 ### 1. Controller and contact
 
@@ -33,6 +33,8 @@ This Privacy Policy explains how we collect, use, and protect personal data in c
 
 We process personal data for the following purposes and on the following legal bases under Article 6(1) of the GDPR:
 
+**Consent (Article 6(1)(a)):** Website analytics via Google Analytics 4 with Consent Mode v2. Analytics cookies are disabled by default and only activated when you give explicit consent through our cookie consent banner. You may withdraw your consent at any time by adjusting your cookie preferences.
+
 **Legitimate interests (Article 6(1)(f)):** Enabling user interaction through the Giscus comment system. Our legitimate interest is facilitating community discussion on blog posts. This interest is balanced against your rights, as commenting is entirely optional and requires your active decision to authenticate with GitHub.
 
 ### 5. Data sharing and recipients
@@ -41,23 +43,27 @@ We process personal data for the following purposes and on the following legal b
 
 **Giscus:** Comment system powered by GitHub Discussions. When you leave a comment, your GitHub username and comment content are stored as a GitHub Discussion. Giscus acts as an intermediary to the GitHub API.
 
+**Google LLC (USA):** Website analytics via Google Analytics 4 with Consent Mode v2. When you consent to analytics cookies, Google Analytics collects anonymised usage data including page views, referral sources, and approximate location derived from your IP address. Google may process this data outside the EEA. Transfer safeguard: EU-US Data Privacy Framework / Standard Contractual Clauses (Article 46(2)(c) GDPR). See [Google's Privacy Policy](https://policies.google.com/privacy).
+
 We do not sell, rent, or trade your personal data. We do not share data with advertisers or data brokers.
 
 ### 6. International data transfers
 
-Website hosting data is processed by GitHub, Inc. in the USA. Where data is transferred outside the EEA, appropriate safeguards are in place, including Standard Contractual Clauses adopted by the European Commission (Article 46(2)(c) GDPR) or reliance on adequacy decisions (Article 45 GDPR).
+Website hosting data is processed by GitHub, Inc. in the USA. Analytics data may be processed by Google LLC in the USA. Where data is transferred outside the EEA, appropriate safeguards are in place, including Standard Contractual Clauses adopted by the European Commission (Article 46(2)(c) GDPR) or reliance on adequacy decisions (Article 45 GDPR).
 
 ### 7. Cookies and similar technologies
 
-This website does not set any first-party cookies. We do not use analytics, tracking, or advertising cookies.
+**Strictly necessary cookies:** This website does not set any first-party cookies that are strictly necessary for its operation. No consent is required for these.
+
+**Analytics cookies (consent required):** We use Google Analytics 4 with Consent Mode v2. Analytics cookies are disabled by default and only activated when you give explicit consent through our cookie consent banner. These cookies help us understand how visitors interact with our website by collecting anonymous usage data (page views, referral sources, approximate location). You can change your cookie preferences at any time by clicking "Manage preferences" in the cookie consent banner.
 
 Third-party services (GitHub, Giscus) may set their own cookies when you interact with them. These are governed by their respective privacy policies.
 
 This site supports Progressive Web App (PWA) features, including offline caching via a service worker. Cached data is stored locally on your device and is not transmitted to us.
 
-### 8. No analytics
+### 8. Analytics
 
-We do not use any analytics or tracking tools on this website.
+We use Google Analytics 4 (GA4) with Google Consent Mode v2 to collect anonymised usage statistics. Analytics is disabled by default and only activated when you consent to analytics cookies. Data collected includes page views, referral sources, browser type, and approximate location derived from your IP address. Google Analytics does not identify individual users. See [Google's Analytics Data Safeguards](https://support.google.com/analytics/answer/6004245) for more information.
 
 ### 9. Your rights under the GDPR
 
